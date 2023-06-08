@@ -29,6 +29,10 @@ The Cloud Native ecosystem encompasses various aspects, key technologies, and re
 
 These aspects and technologies are just a glimpse of the Cloud Native ecosystem, which continues to evolve and expand as new technologies and practices emerge.
 
+## Typically Basel
+
+Cloud Native Basel is a community centered around the city of Basel and its surroundings. We value the contributions of everyone on their cloud native journey and believe in building a deep understanding together. Our aim is to foster a local community that stays connected with the latest trends and developments, while tailoring our activities to meet the needs of our members. We strive to create a collaborative environment where we can support and learn from one another, ultimately building a strong foundation for cloud native innovation in our local area.
+
 ## Be a part
 
 So if you're interested in becoming a part of our Cloud Native Basel community, join our group and sign up for our events. We look forward to meeting you!
