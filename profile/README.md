@@ -17,5 +17,5 @@ So if you're interested in becoming a part of our Cloud Native Basel community, 
 
 These are the various social media platforms you can follow us on:
 
-[LinkedIn](https://www.linkedin.com/company/cloudnativebasel/)
-[Meetup](https://www.meetup.com/cloudnativebasel/)
+- [LinkedIn](https://www.linkedin.com/company/cloudnativebasel/)
+- [Meetup](https://www.meetup.com/cloudnativebasel/)
