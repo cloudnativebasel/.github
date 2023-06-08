@@ -2,14 +2,15 @@
 
 ![cloud-native-basel-header](https://raw.githubusercontent.com/cloudnativebasel/static/main/images/cloud-native-basel-header.png)
 
-## How we are
+## How we are 🙋🏼‍♂️
 
 We are a group of tech enthusiasts from Basel who are passionate about the latest developments in the field of Cloud Native and related technologies.
 
-## Our goal
+## Our goal 🏁
+
 Our goal is to create a vibrant community that regularly interacts in person to exchange knowledge and experiences. To achieve this, we organize live presentations on various tech topics related to Cloud Native, providing a great opportunity to learn from experts and discover new ideas.
 
-## Cloud Native ecosystem
+## Cloud Native ecosystem 🌱
 
 The Cloud Native ecosystem encompasses various aspects, key technologies, and related fields that revolve around the development, deployment, and management of cloud-native applications. Here are some important components of the Cloud Native ecosystem:
 
@@ -29,17 +30,17 @@ The Cloud Native ecosystem encompasses various aspects, key technologies, and re
 
 These aspects and technologies are just a glimpse of the Cloud Native ecosystem, which continues to evolve and expand as new technologies and practices emerge.
 
-## Typically Basel
+## Typically Basel 🇨🇭
 
 Cloud Native Basel is a community centered around the city of Basel and its surroundings. We value the contributions of everyone on their cloud native journey and believe in building a deep understanding together. Our aim is to foster a local community that stays connected with the latest trends and developments, while tailoring our activities to meet the needs of our members. We strive to create a collaborative environment where we can support and learn from one another, ultimately building a strong foundation for cloud native innovation in our local area.
 
-## Be a part
+## Be a part 🙇
 
 So if you're interested in becoming a part of our Cloud Native Basel community, join our group and sign up for our events. We look forward to meeting you!
 
 Join the [discussion here](https://github.com/orgs/cloudnativebasel/discussions) 💬
 
-## Follow us
+## Follow us 🙏
 
 These are the various social media platforms you can follow us on:
 
