@@ -13,6 +13,8 @@ Our goal is to create a vibrant community that regularly interacts in person to 
 
 So if you're interested in becoming a part of our Cloud Native Basel community, join our group and sign up for our events. We look forward to meeting you!
 
+Join the [discussion here](https://github.com/orgs/cloudnativebasel/discussions) 💬
+
 ## Follow us
 
 These are the various social media platforms you can follow us on:
