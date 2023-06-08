@@ -1,5 +1,7 @@
 # Cloud Native Basel
 
+![cloud-native-basel-header](https://raw.githubusercontent.com/cloudnativebasel/static/main/images/cloud-native-basel-header.png)
+
 ## How we are
 
 We are a group of tech enthusiasts from Basel who are passionate about the latest developments in the field of Cloud Native and related technologies.
