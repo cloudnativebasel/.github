@@ -40,7 +40,7 @@ Cloud Native Basel is a community centered around the city of Basel and its surr
 
 - [Cloud Native Basel Slides Repository](https://github.com/cloudnativebasel/slides): The Slides repository contains slide decks from past meetups, keynotes, and other events. It provides a valuable resource for accessing and revisiting the presentations shared within our community.
 
-- [Cloud Native Basel Code of Conduct](https://github.com/cloudnativebasel/infos/blob/main/CODE_OF_CONDUCT.md): Our Code of Conduct outlines the guidelines for creating a respectful, inclusive, and welcoming environment for all community members. We expect everyone to adhere to these principles when participating in our events and online discussions.
+- [Cloud Native Basel Code of Conduct](https://github.com/cloudnativebasel/infos/blob/main/code-of-conduct.md): Our Code of Conduct outlines the guidelines for creating a respectful, inclusive, and welcoming environment for all community members. We expect everyone to adhere to these principles when participating in our events and online discussions.
 
 ## Be a part and get involved 🙇
 
