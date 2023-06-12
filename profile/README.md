@@ -12,6 +12,8 @@ Wir sind eine Gruppe von Tech-Enthusiasten aus Basel, die sich leidenschaftlich 
 
 Our goal is to create a vibrant community that regularly interacts in person to exchange knowledge and experiences. To achieve this, we organize live presentations on various tech topics related to Cloud Native, providing a great opportunity to learn from experts and discover new ideas.
 
+Unser Ziel ist es, eine lebendige Gemeinschaft zu schaffen, die regelmässg persönlich interagiert, um Wissen und Erfahrungen auszutauschen. Dazu veranstalten wir Live-Vorträge zu verschiedenen Tech-Themen im Zusammenhang mit Cloud Native. Dies bietet eine grossartige Gelegenheit, von Experten zu lernen und neue Ideen zu entdecken.
+
 ## Cloud Native ecosystem 🌱
 
 The Cloud Native ecosystem encompasses various aspects, key technologies, and related fields that revolve around the development, deployment, and management of cloud-native applications. Here are some important components of the Cloud Native ecosystem:
@@ -20,6 +22,7 @@ The Cloud Native ecosystem encompasses various aspects, key technologies, and re
 - **Orchestration:** Orchestration platforms, like Kubernetes, enable the automated deployment, scaling, and management of containerized applications, ensuring high availability, fault tolerance, and efficient resource utilization.
 - **Microservices Architecture:** Cloud Native applications are often built using a microservices architecture, where applications are divided into smaller, loosely coupled services that can be independently developed, deployed, and scaled.
 - **Immutable Infrastructure:** Cloud Native applications leverage the concept of immutable infrastructure, where infrastructure components, including servers and containers, are treated as disposable and can be easily replaced or upgraded.
+- ...
 
 These aspects and technologies are just a glimpse of the Cloud Native ecosystem. If you want to know more what Cloud Native is and what other components are part of the Cloud Native ecosystem, go check out our [What is Cloud Native](https://github.com/cloudnativebasel/infos/blob/main/resources/what-is-cloud-native.md) page.
 
