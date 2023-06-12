@@ -34,11 +34,27 @@ These aspects and technologies are just a glimpse of the Cloud Native ecosystem,
 
 Cloud Native Basel is a community centered around the city of Basel and its surroundings. We value the contributions of everyone on their cloud native journey and believe in building a deep understanding together. Our aim is to foster a local community that stays connected with the latest trends and developments, while tailoring our activities to meet the needs of our members. We strive to create a collaborative environment where we can support and learn from one another, ultimately building a strong foundation for cloud native innovation in our local area.
 
-## Be a part 🙇
+## Resources
 
-So if you're interested in becoming a part of our Cloud Native Basel community, join our group and sign up for our events. We look forward to meeting you!
+- [Cloud Native Basel Infos Repository](https://github.com/cloudnativebasel/infos): The Infos repository serves as a central hub for storing all information related to the Cloud Native Basel platform, including upcoming events, call for speakers, and other important announcements.
 
-Join the [discussion here](https://github.com/orgs/cloudnativebasel/discussions) 💬
+- [Cloud Native Basel Slides Repository](https://github.com/cloudnativebasel/slides): The Slides repository contains slide decks from past meetups, keynotes, and other events. It provides a valuable resource for accessing and revisiting the presentations shared within our community.
+
+- [Cloud Native Basel Code of Conduct](https://github.com/cloudnativebasel/infos/blob/main/CODE_OF_CONDUCT.md): Our Code of Conduct outlines the guidelines for creating a respectful, inclusive, and welcoming environment for all community members. We expect everyone to adhere to these principles when participating in our events and online discussions.
+
+## Be a part and get involved 🙇
+
+So if you're interested in becoming a part of our Cloud Native Basel community, join our group and sign up for our events. We look forward to meeting you! We encourage you to get involved in the Cloud Native Basel community! Here's how you can participate:
+
+- Join our [Meetup group](https://www.meetup.com/cloudnativebasel) to stay updated on upcoming events and RSVP to attend.
+
+- Contribute to our GitHub repositories by submitting pull requests, sharing resources, or providing feedback.
+
+- Engage with our community on social media platforms. Follow us on [Twitter](https://twitter.com/cloudnativebasel) for the latest updates and announcements.
+
+- Share your cloud native journey, experiences, and knowledge with the community by presenting at our meetups or writing blog posts.
+
+- Join the Cloud Native Basel discussion group. You can find the the discussion board [here](https://github.com/orgs/cloudnativebasel/discussions) 💬
 
 ## Follow us 🙏
 
@@ -46,3 +62,5 @@ These are the various social media platforms you can follow us on:
 
 - [LinkedIn](https://www.linkedin.com/company/cloudnativebasel/)
 - [Meetup](https://www.meetup.com/cloudnativebasel/)
+
+We value your participation in the Cloud Native Basel community and look forward to connecting with you!
