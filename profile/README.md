@@ -32,7 +32,7 @@ These aspects and technologies are just a glimpse of the Cloud Native ecosystem.
 
 [DE] Cloud Native Basel ist eine Community mit Fokus auf die Stadt Basel und Umgebung. Wir schätzen den Beitrag aller Teilnehmer auf ihrem _Cloud Native_-Weg und glauben daran, gemeinsam ein tiefgreifendes Verständnis aufzubauen. Unser Ziel ist es, eine lokale Community zu fördern, die mit den neuesten Trends und Entwicklungen verbunden bleibt und unsere Aktivitäten an die Bedürfnisse unserer Mitglieder anpasst. Wir streben nach einem freundlichen Umfeld, in der wir uns gegenseitig unterstützen und voneinander lernen können. Letztendlich wollen wir eine solide Grundlage für _Cloud Native_-Innovationen in unserer Region schaffen.
 
-## Resources
+## Resources 📖
 
 - [Cloud Native Basel Infos Repository](https://github.com/cloudnativebasel/infos): The Infos repository serves as a central hub for storing all information related to the Cloud Native Basel platform, including upcoming events, call for speakers, and other important announcements.
 
