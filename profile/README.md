@@ -4,15 +4,15 @@
 
 ## Who we are 🙋🏼‍♂️
 
-We are a group of tech enthusiasts from Basel who are passionate about the latest developments in the field of Cloud Native and related technologies.
+[EN] We are a group of tech enthusiasts from Basel who are passionate about the latest developments in the field of Cloud Native and related technologies.
 
-Wir sind eine Gruppe von Tech-Enthusiasten aus Basel, die sich leidenschaftlich für die neuesten Entwicklungen im Bereich Cloud Native und verwandten Technologien interessieren.
+[DE] Wir sind eine Gruppe von Tech-Enthusiasten aus Basel, die sich leidenschaftlich für die neuesten Entwicklungen im Bereich Cloud Native und verwandten Technologien interessieren.
 
 ## Our goal 🏁
 
-Our goal is to create a vibrant community that regularly interacts in person to exchange knowledge and experiences. To achieve this, we organize live presentations on various tech topics related to Cloud Native, providing a great opportunity to learn from experts and discover new ideas.
+[EN] Our goal is to create a vibrant community that regularly interacts in person to exchange knowledge and experiences. To achieve this, we organize live presentations on various tech topics related to Cloud Native, providing a great opportunity to learn from experts and discover new ideas.
 
-Unser Ziel ist es, eine lebendige Gemeinschaft zu schaffen, die regelmässg persönlich interagiert, um Wissen und Erfahrungen auszutauschen. Dazu veranstalten wir Live-Vorträge zu verschiedenen Tech-Themen im Zusammenhang mit Cloud Native. Dies bietet eine grossartige Gelegenheit, von Experten zu lernen und neue Ideen zu entdecken.
+[DE] Unser Ziel ist es, eine lebendige Gemeinschaft zu schaffen, die regelmässg persönlich interagiert, um Wissen und Erfahrungen auszutauschen. Dazu veranstalten wir Live-Vorträge zu verschiedenen Tech-Themen im Zusammenhang mit Cloud Native. Dies bietet eine grossartige Gelegenheit, von Experten zu lernen und neue Ideen zu entdecken.
 
 ## Cloud Native ecosystem 🌱
 
@@ -28,7 +28,9 @@ These aspects and technologies are just a glimpse of the Cloud Native ecosystem.
 
 ## Typically Basel 🇨🇭
 
-Cloud Native Basel is a community centered around the city of Basel and its surroundings. We value the contributions of everyone on their cloud native journey and believe in building a deep understanding together. Our aim is to foster a local community that stays connected with the latest trends and developments, while tailoring our activities to meet the needs of our members. We strive to create a collaborative environment where we can support and learn from one another, ultimately building a strong foundation for cloud native innovation in our local area.
+[EN] Cloud Native Basel is a community centered around the city of Basel and its surroundings. We value the contributions of everyone on their cloud native journey and believe in building a deep understanding together. Our aim is to foster a local community that stays connected with the latest trends and developments, while tailoring our activities to meet the needs of our members. We strive to create a collaborative environment where we can support and learn from one another, ultimately building a strong foundation for cloud native innovation in our local area.
+
+[DE] Cloud Native Basel ist eine Community mit Fokus auf die Stadt Basel und Umgebung. Wir schätzen den Beitrag aller Teilnehmer auf ihrem _Cloud Native_-Weg und glauben daran, gemeinsam ein tiefgreifendes Verständnis aufzubauen. Unser Ziel ist es, eine lokale Community zu fördern, die mit den neuesten Trends und Entwicklungen verbunden bleibt und unsere Aktivitäten an die Bedürfnisse unserer Mitglieder anpasst. Wir streben nach einem freundlichen Umfeld, in der wir uns gegenseitig unterstützen und voneinander lernen können. Letztendlich wollen wir eine solide Grundlage für _Cloud Native_-Innovationen in unserer Region schaffen.
 
 ## Resources
 
