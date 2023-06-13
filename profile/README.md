@@ -70,5 +70,6 @@ These are the various social media platforms you can follow us on:
 
 - [LinkedIn](https://www.linkedin.com/company/cloudnativebasel/)
 - [Meetup](https://www.meetup.com/cloudnativebasel/)
+- [Twitter](https://twitter.com/cloudnativbasel)
 
 We value your participation in the Cloud Native Basel community and look forward to connecting with you!
