@@ -34,6 +34,16 @@ These aspects and technologies are just a glimpse of the Cloud Native ecosystem.
 
 ## Resources 📖
 
+- [What is Cloud Native](https://github.com/cloudnativebasel/infos/blob/main/resources/what-is-cloud-native.md) [EN]
+
+- [Was ist Cloud Native](https://github.com/cloudnativebasel/infos/blob/main/resources/was-ist-cloud-native.md) [DE]
+
+- [Cloud Native Terminology](https://github.com/cloudnativebasel/infos/blob/main/resources/cloud-native-terminology.md) [EN]
+
+- [Cloud Native Terminologie](https://github.com/cloudnativebasel/infos/blob/main/resources/cloud-native-terminologie.md) [DE]
+
+- [Awesome Cloud Native](https://github.com/cloudnativebasel/awesome-cloud-native): A curated list of awesome resources around the Cloud Native landscape. ⭐
+
 - [Cloud Native Basel Infos Repository](https://github.com/cloudnativebasel/infos): The Infos repository serves as a central hub for storing all information related to the Cloud Native Basel platform, including upcoming events, call for speakers, and other important announcements.
 
 - [Cloud Native Basel Slides Repository](https://github.com/cloudnativebasel/slides): The Slides repository contains slide decks from past meetups, keynotes, and other events. It provides a valuable resource for accessing and revisiting the presentations shared within our community.
